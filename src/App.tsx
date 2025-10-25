@@ -1,9 +1,9 @@
-import { Button } from "./components/ui/button";
+import MultistepFom from "./components/Multi-step-Fom";
 
 
 function App() {
     return(
-      <Button variant={"outline"}></Button>
+      <MultistepFom></MultistepFom>
     );
 }
 
