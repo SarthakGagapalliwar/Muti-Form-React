@@ -2,7 +2,7 @@ import React from 'react'
 
 function handleError() {
   return (
-    <div>handleError</div>
+    <div>handleError1</div>
   )
 }
 
